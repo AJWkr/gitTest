@@ -7,6 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        println("git check 2 - To Master From Second Branch")
+        println("git check 3 - To Master From Second Branch")
     }
 }
